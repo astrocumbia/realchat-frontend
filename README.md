@@ -1,16 +1,16 @@
 # RealChat
 
-####Frontend web app react for RealChat app
+#### Frontend web app react for RealChat app
 
 This is the frontend project for RealChat
 
-####Start server
+#### Start server
 
 ```
 $ yarn start
 ```
 
-####Building app
+#### Building app
 ```
 $ yarn build
 ```
